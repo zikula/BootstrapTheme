@@ -15,6 +15,10 @@ namespace Zikula\BootstrapTheme;
 
 use Zikula\ExtensionsModule\AbstractCoreTheme;
 
+/**
+ * @deprecated remove at Core-4.0.0
+ * @see \Zikula\DefaultTheme\ZikulaDefaultTheme
+ */
 class ZikulaBootstrapTheme extends AbstractCoreTheme
 {
 }
